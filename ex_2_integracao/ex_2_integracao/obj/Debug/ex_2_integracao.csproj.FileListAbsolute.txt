@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\ETEC\Desenvolvimento de Sistemas\ex_2_integracao\ex_2_integracao\bin\Debug\ex_2_integracao.exe.config
+C:\Users\ds-etim-2\Desktop\ETEC\Desenvolvimento de Sistemas\ex_2_integracao\ex_2_integracao\bin\Debug\ex_2_integracao.exe
+C:\Users\ds-etim-2\Desktop\ETEC\Desenvolvimento de Sistemas\ex_2_integracao\ex_2_integracao\bin\Debug\ex_2_integracao.pdb
+C:\Users\ds-etim-2\Desktop\ETEC\Desenvolvimento de Sistemas\ex_2_integracao\ex_2_integracao\obj\Debug\ex_2_integracao.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\ETEC\Desenvolvimento de Sistemas\ex_2_integracao\ex_2_integracao\obj\Debug\ex_2_integracao.Form1.resources
+C:\Users\ds-etim-2\Desktop\ETEC\Desenvolvimento de Sistemas\ex_2_integracao\ex_2_integracao\obj\Debug\ex_2_integracao.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\ETEC\Desenvolvimento de Sistemas\ex_2_integracao\ex_2_integracao\obj\Debug\ex_2_integracao.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\ETEC\Desenvolvimento de Sistemas\ex_2_integracao\ex_2_integracao\obj\Debug\ex_2_integracao.exe
+C:\Users\ds-etim-2\Desktop\ETEC\Desenvolvimento de Sistemas\ex_2_integracao\ex_2_integracao\obj\Debug\ex_2_integracao.pdb
